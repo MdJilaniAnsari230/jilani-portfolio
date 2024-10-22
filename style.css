@@ -8,6 +8,9 @@
   scroll-behavior: smooth;
   
 }
+body{
+  background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+}
 :root {
   --bgOrange: #e84949;
 }
